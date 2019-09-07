@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.3
 Flask==1.0.2
-pytest==3.7.1
-pytest-json-report==0.7.0
+pytest==3.7.1dsalkdna
+pytest-json-report==0.7.0,m dakl
 python-dotenv==0.9.1
-testsfaskfn
+testsfaskfnsadasl
