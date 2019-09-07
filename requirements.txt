@@ -1,7 +1,13 @@
-beautifulsoup4==4.6.3
+beautifulsoudasdp4==4.6.3
 Flask==1.0.2
+pytest==3.7.1dsalkdna
+pytest-json-report==0.7.0,m dakl
+python-dotesadasdnv==0.9.1
+testsfaskfnsadasl
 pytest==3.7.1
 pytest-json-report==0.7.0
 the end is near fix 2
 python-dotenv==0.9.1
 relesaefix commit fdsa;fjasknf
+python-dotenv==0.9.1
+testsfaskfn
